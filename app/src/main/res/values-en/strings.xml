@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Unit Converter</string>
 
-    <string name="student_info">Name: Your Name | ID: 6XXXXXXXXX</string>
+    <string name="student_info">Name: Mr.Natdanai Kongsao | ID: 6704101322</string>
 
     <string name="input_hint">Enter value to convert</string>
     <string name="btn_convert">Convert</string>

@@ -3,7 +3,7 @@
     <string name="app_name">แปลงหน่วย</string>
 
     <!-- ⑫ ชื่อและรหัสนักศึกษา -->
-    <string name="student_info">ชื่อ: ชื่อของคุณ | รหัส: 6XXXXXXXXX</string>
+    <string name="student_info">ชื่อ: นายณัฐดนัย กองเสาร์ | รหัส: 6704101322</string>
 
     <string name="input_hint">ป้อนค่าที่ต้องการแปลง</string>
     <string name="btn_convert">แปลงหน่วย</string>
