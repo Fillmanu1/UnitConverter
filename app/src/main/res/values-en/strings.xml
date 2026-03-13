@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string name="student_info">Name: Your Name | ID: 6XXXXXXXXX</string>
+
+    <string name="input_hint">Enter value to convert</string>
+    <string name="btn_convert">Convert</string>
+    <string name="btn_history">Conversion History</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_clear">Clear History</string>
+    <string name="result_label">Result:</string>
+    <string name="result_default">Result will appear here</string>
+    <string name="error_empty">Please enter a value first</string>
+    <string name="history_title">Conversion History</string>
+    <string name="no_history">No history yet</string>
+
+    <string-array name="unit_options">
+        <item>Kilometers → Miles</item>
+        <item>Miles → Kilometers</item>
+        <item>Kilograms → Pounds</item>
+        <item>Pounds → Kilograms</item>
+        <item>Celsius → Fahrenheit</item>
+        <item>Fahrenheit → Celsius</item>
+    </string-array>
+</resources>

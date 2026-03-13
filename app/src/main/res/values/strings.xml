@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แปลงหน่วย</string>
+
+    <!-- ⑫ ชื่อและรหัสนักศึกษา -->
+    <string name="student_info">ชื่อ: ชื่อของคุณ | รหัส: 6XXXXXXXXX</string>
+
+    <string name="input_hint">ป้อนค่าที่ต้องการแปลง</string>
+    <string name="btn_convert">แปลงหน่วย</string>
+    <string name="btn_history">ประวัติการแปลง</string>
+    <string name="btn_exit">ออกจากโปรแกรม</string>
+    <string name="btn_back">กลับ</string>
+    <string name="btn_clear">ล้างประวัติ</string>
+    <string name="result_label">ผลลัพธ์:</string>
+    <string name="result_default">ผลลัพธ์จะแสดงที่นี่</string>
+    <string name="error_empty">กรุณาป้อนข้อมูลก่อน</string>
+    <string name="history_title">ประวัติการแปลงหน่วย</string>
+    <string name="no_history">ยังไม่มีประวัติ</string>
+
+    <!-- Spinner options -->
+    <string-array name="unit_options">
+        <item>กิโลเมตร → ไมล์</item>
+        <item>ไมล์ → กิโลเมตร</item>
+        <item>กิโลกรัม → ปอนด์</item>
+        <item>ปอนด์ → กิโลกรัม</item>
+        <item>เซลเซียส → ฟาเรนไฮต์</item>
+        <item>ฟาเรนไฮต์ → เซลเซียส</item>
+    </string-array>
+</resources>
